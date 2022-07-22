@@ -1,4 +1,4 @@
 def xpto():
 
-    abc = ''
+    abc = 'teste'
     print(abc)
